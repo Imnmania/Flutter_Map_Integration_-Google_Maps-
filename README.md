@@ -1,8 +1,8 @@
-# flutter_maps
+## Flutter Map Integration (Google Maps)
 
-A new Flutter project.
+A Google Maps API integration in flutter.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
