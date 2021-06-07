@@ -1,6 +1,11 @@
 ## Flutter Map Integration (Google Maps)
 
-A Google Maps API integration in flutter.
+A Google Maps API integration in Flutter.
+
+### Dependencies
+* dio: ^4.0.0
+* flutter_polyline_points: ^1.0.0
+* google_maps_flutter: ^2.0.6
 
 ### Getting Started
 
