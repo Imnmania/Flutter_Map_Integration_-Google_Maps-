@@ -2,6 +2,10 @@
 
 A Google Maps API integration in Flutter.
 
+#### Screenshot:
+
+<p align="center"><img src="https://i.imgur.com/uxfVZx1.png" alt="Screenshot" width="350"></p>
+
 ### Dependencies
 * dio: ^4.0.0
 * flutter_polyline_points: ^1.0.0
